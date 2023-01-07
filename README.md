@@ -1,6 +1,6 @@
 # Password Generator
 
-This is a tool using Python that generates passwords for you. You can introduce the number of letters you want in you password, numbers and symbols.
+This is a tool using Python that generates passwords for you. You can introduce the number of letters you want in your password, numbers and symbols.
 
 ## Features
 
